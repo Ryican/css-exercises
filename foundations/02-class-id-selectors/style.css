@@ -1,10 +1,25 @@
-p {
-    background-color: pink;
-    color: black;
+
+* {
     font-family: Verdana, sans-serif;
+
 }
 
-#second {
+.odd {
+    background-color: rgb(255, 192, 203);
+    
+}
+
+.oddly-cool {
+    font-size: 24px;
+}
+
+#two {
     color: blue;
     font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
 }
